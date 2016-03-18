@@ -1540,7 +1540,7 @@
                             ],
             lessMore:       [ '>', '<', '=' ],
         },
-        url: 'http://www.irobot.com/About-iRobot/STEM/Create-2/Projects.aspx'
+        url: 'http://www.thermanager.com'
     };
     ScratchExtensions.register('iRobot Create 2', descriptor, ext, {type: 'serial'});
 })({});
