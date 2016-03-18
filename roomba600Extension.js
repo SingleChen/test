@@ -1542,5 +1542,5 @@
         },
         url: 'http://www.thermanager.com'
     };
-    ScratchExtensions.register('iRobot Create 2', descriptor, ext, {type: 'serial'});
+    ScratchExtensions.register('3E Measurement Cart', descriptor, ext, {type: 'serial'});
 })({});
