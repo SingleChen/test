@@ -1375,9 +1375,8 @@
              * ['b', '%m.wheelDrop is dropped',    'booleanSensor', 'any wheel'],
              */
 
-            /* Disable this for now. No useful analog sensors currently.
-             * ['r', '%m.sensor value', 'sensor', 'sensor'],
-             */
+            // Disable this for now. No useful analog sensors currently.
+            ['r', '%m.sensor value', 'sensor', 'sensor'],
 
             // Songs
             [' ', 'set note tempo to %n bpm', 'setTempo', '60'],
