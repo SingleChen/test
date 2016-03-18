@@ -1498,11 +1498,12 @@
                               'ir-opcode',
                               'voltage',
                               'velocity',
-                              'radius',
+                              'radius',*/
                               'distance',
                               'angle',
                               'current',
                               'temperature',
+                              /*
                               'battery-charge',
                               'battery-capacity',
                               'wall-signal',
