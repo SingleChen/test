@@ -134,7 +134,7 @@
         'charging-state': 0,
         'voltage': 0,
         'current': 0,
-        'temperature': 1,
+        'temperature': 24,
         'battery-charge': 0,
         'battery-capacity': 0,
         'wall-signal': 0,
