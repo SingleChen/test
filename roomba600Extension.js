@@ -1058,7 +1058,7 @@
             for(var name in sensorCache) {
                 if(sensorCache.hasOwnProperty(name)) {
                     var v = inputArray[sensorIndices[name]];          
-                    sensorCache[name] = v;
+                    sensorCache[name] = 24;
                 }
             }
 
