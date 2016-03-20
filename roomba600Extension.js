@@ -1213,17 +1213,19 @@
             /* Request stream */
             148,
             /* Number of packets requested */
-            13,
+            15,
             /* List of packets */
-            7,             // Bumps and wheel-drops
-            9, 10, 11, 12, // Cliffs
-            14,            // Overcurrents (handled internally)
-            18,            // Buttons
-            34,            // Charge source available
-            35,            // OI Mode
-            43, 44,        // Encoder counts
-            45,            // Light bumper
-            24             // Temperature
+            7,              // Bumps and wheel-drops
+            9, 10, 11, 12,  // Cliffs
+            14,             // Overcurrents (handled internally)
+            18,             // Buttons
+            34,             // Charge source available
+            35,             // OI Mode
+            43, 44,         // Encoder counts
+            45,             // Light bumper
+            24,             // Temperature
+            19,             // Distance
+            20              // Angle
         ]);
 
         sendToRobot(streamCmd);
